@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Jogar video game",
+      "isFav": true
+    },
+    {
+      "id": "2",
+      "title": "Dormir",
+      "isFav": true
+    },
+    {
+      "id": "3",
+      "title": "Estudar Pinia",
+      "isFav": false
+    },
+    {
+      "id": "4",
+      "title": "Fazer flexão",
+      "isFav": true
+    },
+    {
+      "id": "5",
+      "title": "Cozinhar",
+      "isFav": false
+    },
+    {
+      "id": "3038",
+      "title": "Correr",
+      "isFav": false
+    },
+    {
+      "id": "2591",
+      "title": "Estudar Pinia",
+      "isFav": false
+    },
+    {
+      "id": 1631,
+      "title": "Dormir de novo",
+      "isFav": false
+    }
+  ]
+}
